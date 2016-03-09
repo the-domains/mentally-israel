@@ -1,0 +1,28 @@
+name: Mentally.Israel
+favicon: null
+layout_spectrum: 0.8611938671674579
+typography_spectrum: 0.6570936052594334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.23167816223576665
+  lightness: 0.5657743965275586
+  saturation: 0.2953996432479471
+  rhythmicContrast: 0.9087131940759718
+purpose: []
